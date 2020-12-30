@@ -25,6 +25,5 @@
     <a href="abim03.wordpress.com" target="blank"><img src="https://img.shields.io/badge/Website-https%3A%2F%2Fabim03.wordpress.com%2F-orange" /></a>
     <a href="https://www.linkedin.com/in/abdi-bimantara-990a84149/" target="blank"><img src="https://img.shields.io/badge/-Abdi%20Bimantara-blue?style=flat&logo=linkedin" /></a>
     <a href="https://medium.com/@abdibimantara91" target="blank"><img src="https://img.shields.io/badge/-Abdi%20Bimantara-black?style=flat&logo=Medium" /></a>
-    <a href="https://https://twitter.com/bagusfedotid" target="blank"><img src="https://img.shields.io/badge/@bagusfedotid-30302f?style=flat&logo=twitter" /></a>
-    <a href="https://www.paypal.me/gewdfe" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
+    <a href="https://web.facebook.com/profile.php?id=100017517425476" target="blank"><img src="https://img.shields.io/badge/-Abdi%20Bimantara-black?ystyle=flat&logo=Facebook" /></a>
 </p>
