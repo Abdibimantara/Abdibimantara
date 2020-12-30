@@ -19,4 +19,5 @@
     <a href="https://www.linkedin.com/in/abdi-bimantara-990a84149/" target="blank"><img src="https://img.shields.io/badge/-Abdi%20Bimantara-blue?style=flat&logo=linkedin" /></a>
     <a href="https://medium.com/@abdibimantara91" target="blank"><img src="https://img.shields.io/badge/-Abdi%20Bimantara-black?style=flat&logo=Medium" /></a>
     <a href="https://web.facebook.com/profile.php?id=100017517425476" target="blank"><img src="https://img.shields.io/badge/-Abdi%20Bimantara-black?ystyle=flat&logo=Facebook" /></a>
+    <a href="https://ubuntu.com/" target="blank"><img src="https://img.shields.io/badge/-Ubuntu-orange?style=flat&logo=Linux" /></a>
 </p>
