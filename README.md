@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdi Bimantara</h1>
-<h3 align="center">matematika, program, analitik, dan pengulangan</h3>
+<h3 align="center">math, program, analytics, and repeat 🔁</h3>
 
-<li> Visit my website : https://bit.ly/BimantaraPotofolio</li>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
