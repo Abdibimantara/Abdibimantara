@@ -16,11 +16,7 @@
      <a href="https://pytorch.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="pytorch" width="40" height="40"/> </a> 
          <a href="https://pytorch.org/" target="_blank"> <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-part-azure-sql-database-with-azure-active-directory-17.png" alt="pytorch" width="40" height="40"/> </a> 
     <a href="https://pytorch.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1043px-Microsoft_Excel_2013-2019_logo.svg.png" alt="pytorch" width="40" height="40"/> </a> 
-   
-   
     <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
- 
-    <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://code.visualstudio.com" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/906/906324.svg" alt="android" width="40" height="40"/> </a><a href="https://www.wireshark.org/"target="_blank"> <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="android" width="40" height="40"/> </a></a><a href="https://duckduckgo.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/duckduckgo/duckduckgo-icon.svg" alt="android" width="40" height="40"/> </a><a href="https://www.torproject.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/torproject/torproject-icon.svg" alt="android" width="40" height="40"/> </a></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdibimantara&show_icons=true&locale=en&layout=compact" alt="abdibimantara"/></p>
 
