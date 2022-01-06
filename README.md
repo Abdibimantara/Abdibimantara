@@ -30,3 +30,5 @@ src='https://cdn.jsdelivr.net/npm/simple-icons@6.5.0/icons/hackthebox.svg' alt='
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdibimantara&theme=tokyonight&show_icons=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/abdibimantara)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abdibimantara&theme=tokyonight&show_icons=true)  
+
