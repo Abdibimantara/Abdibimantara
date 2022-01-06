@@ -31,5 +31,4 @@ src='https://cdn.jsdelivr.net/npm/simple-icons@6.5.0/icons/hackthebox.svg' alt='
 
 ![GitHub metrics](https://metrics.lecoq.io/abdibimantara)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abdibimantara&theme=tokyonight&show_icons=true)  
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=abdibimantara.abdibimantara)
