@@ -20,6 +20,8 @@ A Computer Student was passionate about Cyber Security & Active Linux, Network S
 src='https://cdn.jsdelivr.net/npm/simple-icons@6.5.0/icons/tryhackme.svg' alt='tryhcakme' height='40'>](https://tryhackme.com/p/abdibimantara) [<img 
 src='https://cdn.jsdelivr.net/npm/simple-icons@6.5.0/icons/hackthebox.svg' alt='hackmthebox' height='40'>](https://app.hackthebox.com/profile/337310)
 
+
+### My Github Badges
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=abdibimantara)](https://github.com/ryo-ma/github-profile-trophy)
