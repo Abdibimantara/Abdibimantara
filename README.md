@@ -16,6 +16,8 @@ A Computer Student was passionate about Cyber Security. Skilled in SIEM, Securit
 
 ### Connect with me
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=abdibimantara.abdibimantara)
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abdibimantara)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdi-bimantara-990a84149//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100017517425476)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/abdibimantara/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://abdibimantara.medium.com/)[<img 
 src='https://cdn.jsdelivr.net/npm/simple-icons@6.5.0/icons/tryhackme.svg' alt='tryhcakme' height='40'>](https://tryhackme.com/p/abdibimantara) [<img 
 src='https://cdn.jsdelivr.net/npm/simple-icons@6.5.0/icons/hackthebox.svg' alt='hackmthebox' height='40'>](https://app.hackthebox.com/profile/337310)
@@ -31,4 +33,4 @@ src='https://cdn.jsdelivr.net/npm/simple-icons@6.5.0/icons/hackthebox.svg' alt='
 
 ![GitHub metrics](https://metrics.lecoq.io/abdibimantara)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abdibimantara&theme=tokyonight&show_icons=true)  
-![visitors](https://visitor-badge.glitch.me/badge?page_id=abdibimantara.abdibimantara)
+
