@@ -2,7 +2,7 @@
 ### I am Security Enthusiast
 ![I am Security Enthusiast](https://media-exp1.licdn.com/dms/image/C5616AQFRmbb3CXpkrw/profile-displaybackgroundimage-shrink_200_800/0/1636347863177?e=1646870400&v=beta&t=W479Ew53XGzrnPZ-c178nLIkwFGnNYlmMcgros_noqU)
 
-A Computer Student was passionate about Cyber Security & Active Linux, Network Security, Web Application Security. Skilled in SIEM, Security Analyst, Linux System Administration, Ethical Hacking, and Information Security. A practical hacking experience by multiple platforms like TryHackMe, Hackthebox, Pentesterlab, and Blue team Labs.
+A Computer Student was passionate about Cyber Security. Skilled in SIEM, Security Analyst, Linux System Administration, Ethical Hacking, and Information Security. A practical hacking experience by multiple platforms like TryHackMe, Hackthebox, Pentesterlab, and Blueteamlabs.
 
 ### Skills: Linux, Pyhton, SIEM, Incident Response, Threat Hunting, Pentest
 
@@ -14,7 +14,7 @@ A Computer Student was passionate about Cyber Security & Active Linux, Network S
 - 😄 Pronouns: Mas Abdi -_- 
 
 
-### let's connect
+### Connect with me
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abdibimantara)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdi-bimantara-990a84149//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100017517425476)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/abdibimantara/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://abdibimantara.medium.com/)[<img 
 src='https://cdn.jsdelivr.net/npm/simple-icons@6.5.0/icons/tryhackme.svg' alt='tryhcakme' height='40'>](https://tryhackme.com/p/abdibimantara) [<img 
@@ -26,10 +26,7 @@ src='https://cdn.jsdelivr.net/npm/simple-icons@6.5.0/icons/hackthebox.svg' alt='
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=abdibimantara)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdibimantara)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdibimantara&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdibimantara&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdibimantara&theme=tokyonight&show_icons=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/abdibimantara)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abdibimantara)  
-
