@@ -50,4 +50,4 @@ A Computer Student was passionate about Cyber Security. Skilled in SIEM, Securit
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abdibimantara&theme=tokyonight&show_icons=true)  
 
-![Metrics](https://metrics.lecoq.io/abdibimantara)
+![Metrics](https://metrics.lecoq.io/abdibimantara?template=terminal&config.timezone=Asia%2FJakarta)
