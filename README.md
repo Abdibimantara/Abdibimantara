@@ -1,35 +1,33 @@
-<h1 align="center">Hi 👋, I'm Abdi Bimantara</h1>
-<h3 align="center">math, program, analytics, and repeat 🔁</h3>
+## Hi there 👋, My name is Abdi Bimantara
+### I am Security Enthusiast
+![I am Security Enthusiast](https://media-exp1.licdn.com/dms/image/C5616AQFRmbb3CXpkrw/profile-displaybackgroundimage-shrink_200_800/0/1636347863177?e=1646870400&v=beta&t=W479Ew53XGzrnPZ-c178nLIkwFGnNYlmMcgros_noqU)
+
+A Computer Student was passionate about Cyber Security & Active Linux, Network Security, Web Application Security. Skilled in SIEM, Security Analyst, Linux System Administration, Ethical Hacking, and Information Security. A practical hacking experience by multiple platforms like TryHackMe, Hackthebox, Pentesterlab, and Blue team Labs.
+
+### Skills: Linux, Pyhton, SIEM, Incident Response, Threat Hunting, Pentest
+
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Malware Analysis, Reverse Engineering, Threat Hunting, Pentester, Incident Response, Pcap Analysis 
+- 👯 I’m looking to collaborate on Github or Medium 
+- 💬 Ask me about Linux, Network Secruity,Malware, SIEM, Threat Hunting, Machine Learning 
+- 📫 How to reach me: Abdibimantara91@gmail.com 
+- 😄 Pronouns: Mas Abdi -_- 
 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+### let's connect
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-     <a href="https://www.python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a>
-     <a href="https://www.rstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" alt="python" width="40" height="40"/> </a>
-     <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="scikit_learn" width="60" height="40" padding-top:40px;/> </a> 
-    <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-    <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-    <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-    <a href="https://pytorch.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" alt="pytorch" width="40" height="40"/> </a> 
-     <a href="https://pytorch.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="pytorch" width="40" height="40"/> </a> 
-         <a href="https://pytorch.org/" target="_blank"> <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-part-azure-sql-database-with-azure-active-directory-17.png" alt="pytorch" width="40" height="40"/> </a> 
-    <a href="https://pytorch.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1043px-Microsoft_Excel_2013-2019_logo.svg.png" alt="pytorch" width="40" height="40"/> </a> 
-    <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abdibimantara)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdi-bimantara-990a84149//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100017517425476)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/abdibimantara/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://abdibimantara.medium.com/)[<img 
+src='https://cdn.jsdelivr.net/npm/simple-icons@6.5.0/icons/tryhackme.svg' alt='tryhcakme' height='40'>](https://tryhackme.com/p/abdibimantara) [<img 
+src='https://cdn.jsdelivr.net/npm/simple-icons@6.5.0/icons/hackthebox.svg' alt='hackmthebox' height='40'>](https://app.hackthebox.com/profile/337310)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdibimantara&show_icons=true&locale=en&layout=compact" alt="abdibimantara"/></p>
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdibimantara&show_icons=true&locale=en" alt="abdibimantara"  width="50%" /></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=abdibimantara)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdibimantara&" alt="abdibimantara" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdibimantara)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdibimantara&show_icons=true)  
 
+![GitHub metrics](https://metrics.lecoq.io/abdibimantara)  
 
-<h3 align="left">Connect with me:</h3>
-<p>
-    <a href="https://fir-project-189ba.web.app/" target="blank"><img src="https://img.shields.io/badge/Wesbite-Bimantara Portofolio-orange" /></a>
-    <a href="https://medium.com/@abdibimantara" target="blank"><img src="https://img.shields.io/badge/-Abdi%20Bimantara-black?style=flat&logo=Medium" /></a>
-    <a href="https://www.linkedin.com/in/abdi-bimantara-990a84149/" target="blank"><img src="https://img.shields.io/badge/-Abdi%20Bimantara-blue?style=flat&logo=linkedin" /></a>
-    <a href="https://web.facebook.com/profile.php?id=100017517425476" target="blank"><img src="https://img.shields.io/badge/-Abdi%20Bimantara-black?ystyle=flat&logo=Facebook" /></a>
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abdibimantara)  
 
-</p>
