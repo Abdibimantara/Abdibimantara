@@ -45,9 +45,9 @@ A Computer Student was passionate about Cyber Security. Skilled in SIEM, Securit
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=abdibimantara)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdibimantara&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdibimantara&theme=tokyonight&show_icons=true)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abdibimantara&theme=tokyonight&show_icons=true)  
 
 ![Metrics](https://metrics.lecoq.io/abdibimantara?template=terminal&config.timezone=Asia%2FJakarta)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdibimantara&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdibimantara&theme=tokyonight&show_icons=true)  
