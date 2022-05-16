@@ -28,7 +28,7 @@ A Computer Student was passionate about Cyber Security. Skilled in SIEM, Securit
 <a href="https://abdibimantara.medium.com/" target="_blank">
 <img src=https://img.shields.io/badge/medium-%2324292e.svg?&style=for-the-badge&logo=medium&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/AbdiBimantaraa?t=RqSZvvJ-bRiYebiPP4Vxxw&s=09" target="_blank">
+<a href="https://twitter.com/kukangletoy" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 <a href="https://www.instagram.com/kukangletoy/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
