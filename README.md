@@ -1,12 +1,12 @@
 ## Hi there 👋, My name is Abdi Bimantara
 ### I am Security Enthusiast
 # 💫About Me :
-🔭 I’m currently working on this page.
-🌱 I’m currently learning Malware Analysis, Reverse Engineering, Threat Hunting, Pentester, Incident Response, Pcap Analysis
-👯 I’m looking to collaborate on Github or Medium
-💬 Ask me about Linux, Network Security, Malware, SIEM, Threat Hunting, Machine Learning
-📫 How to reach me: Abdibimantara91@gmail.com
-😄 Pronouns: Mas Abdi -_-
+- 🔭 I’m currently working on this page.
+- 🌱 I’m currently learning Malware Analysis, Reverse Engineering, Threat Hunting, Pentester, Incident Response, Pcap Analysis
+- 👯 I’m looking to collaborate on Github or Medium
+- 💬 Ask me about Linux, Network Security, Malware, SIEM, Threat Hunting, Machine Learning
+- 📫 How to reach me: Abdibimantara91@gmail.com
+- 😄 Pronouns: Mas Abdi -_-
 
 
 ## 🌐Socials
@@ -17,8 +17,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=abdibimantara&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abdibimantara&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdibimantara&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-![Metrics](https://metrics.lecoq.io/abdibimantara?template=terminal&config.timezone=Asia%2FJakarta)
 
 ## 🏆GitHub Trophies
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
