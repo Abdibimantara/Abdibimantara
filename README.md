@@ -1,5 +1,6 @@
 ## Hi there 👋, My name is Abdi Bimantara
 ### I am Security Enthusiast
+A Computer Student was passionate about Cyber Security. Skilled in SIEM, Security Analyst, Linux System Administration, Ethical Hacking, and Information Security. A practical hacking experience by multiple platforms like TryHackMe, Hackthebox, Pentesterlab, Letsdefend and Blueteamlabs.
 # 💫About Me :
 - 🔭 I’m currently working on this page.
 - 🌱 I’m currently learning Malware Analysis, Reverse Engineering, Threat Hunting, Pentester, Incident Response, Pcap Analysis
